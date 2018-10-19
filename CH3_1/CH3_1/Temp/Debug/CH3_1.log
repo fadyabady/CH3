@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.c
+c:\users\user\desktop\lab3\ch3_1\ch3_1\source\main.c(16): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\user\desktop\lab3\ch3_1\ch3_1\source\main.c(16): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\user\desktop\lab3\ch3_1\ch3_1\source\main.c(16): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\user\desktop\lab3\ch3_1\ch3_1\source\main.c(16): note: this argument is used as a buffer size
+  CH3_1.vcxproj -> C:\Users\User\Desktop\LAB3\CH3_1\CH3_1\.\Temp\Debug\CH3_1.exe
